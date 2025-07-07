@@ -11,7 +11,9 @@ Additionally, I have earned an NVIDIA certificate in Fundamentals of Deep Learni
 #### Artificial intelligence, Deep learning, web developmen.
  I’m fouad I hold a Master’s degree in Artificial Intelligence and a Bachelor’s degree in Computer Science from the University of Batna 2. With a solid academic foundation and practical experience, I am passionate about leveraging AI to solve complex problems and drive innovation. Additionally, I have earned an NVIDIA certificate in Fundamentals of Deep Learning.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/ python(PyTorch, Keras, Scikit-learn, TensorFlow)
+Skills: python(PyTorch, Keras, Scikit-learn, TensorFlow)
+        MCP, RAG, Fine-Tuning(LoRA/QLoRA), Prompt Engineering.
+        huggingface, langchain, langgraph.
 
 
 
