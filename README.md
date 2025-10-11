@@ -1,15 +1,14 @@
 - 👋 Hi, I’m fouad I hold a Master’s degree in Artificial Intelligence and a Bachelor’s degree in Computer Science from the University of Batna 2.
 With a solid academic foundation and practical experience, I am passionate about leveraging AI to solve complex problems and drive innovation.
-Additionally, I have earned an NVIDIA certificate in Fundamentals of Deep Learning.
+Additionally.
 
-- 👀 I’m interested in ... Artificial Intelligence in general, machine learning, deep learning, sawrm robotics and web development.
+- 👀 I’m interested in ... Artificial Intelligence in general, machine learning, deep learning, sawrm robotics.
 - 🌱 I’m currently learning ... more about the previous cited fields.
 - 💞️ I’m looking to collaborate on ... anything related to AI.
 - 📫 How to reach me ... on linkedin: www.linkedin.com/in/fouad-chaouki-refis-a8baa3301
 
 ### Hi there 👋, fouad chaouki
-#### AI Engineering, web developmen.
- I’m fouad I hold a Master’s degree in Artificial Intelligence and a Bachelor’s degree in Computer Science from the University of Batna 2. With a solid academic foundation and practical experience, I am passionate about leveraging AI to solve complex problems and drive innovation. Additionally, I have earned an NVIDIA certificate in Fundamentals of Deep Learning.
+#### AI Engineering.
 
 Skills: python(PyTorch, Keras, Scikit-learn, TensorFlow)
         MCP, RAG, Fine-Tuning(LoRA/QLoRA), Prompt Engineering.
