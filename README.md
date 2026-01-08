@@ -2,9 +2,9 @@
 With a solid academic foundation and practical experience, I am passionate about leveraging AI to solve complex problems and drive innovation.
 Additionally.
 
-- 👀 I’m interested in ... Artificial Intelligence in general, machine learning, deep learning, sawrm robotics.
+- 👀 I’m interested in ... Artificial Intelligence in general, XAI, GAI, sawrm robotics.
 - 🌱 I’m currently learning ... more about the previous cited fields.
-- 💞️ I’m looking to collaborate on ... anything related to AI.
+- 💞️ I’m looking to collaborate on ... Genrative AI projects and research in AI, Swarm Robotics, XAI.
 - 📫 How to reach me ... on linkedin: www.linkedin.com/in/fouad-chaouki-refis-a8baa3301
 
 ### Hi there 👋, fouad chaouki
